@@ -1,8 +1,9 @@
 #include <limits.h>
 #include <stdio.h>
 #include "main.h"
+
 /**
- * main - This is the Entry point
+ * main - Entry point
  *
  * Return: Always 0
  */
